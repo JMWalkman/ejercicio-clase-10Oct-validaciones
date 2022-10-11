@@ -1,0 +1,13 @@
+el usuario ingreso:  hola mundo 
+el usuario ingreso:  hola mundo 
+el usuario ingreso:  hola mundo 
+el usuario ingreso: /
+el usuario ingreso: /services
+el usuario ingreso: /admin/
+el usuario ingreso: /admin?user=Jose
+el usuario ingreso: /admin?user=Tim
+el usuario ingreso: /admin?user=Tim
+el usuario ingreso: /admin?user=Jose
+el usuario ingreso: /admin?user=Jose
+el usuario ingreso: /admin?user=Jose
+el usuario ingreso: /admin?user=Tim
